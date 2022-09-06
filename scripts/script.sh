@@ -1,1 +1,1 @@
-date
+ls -l
